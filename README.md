@@ -1,6 +1,8 @@
 # react-developer-roadmap
 Unlock modern web development with this concise 2-month React learning plan! We'll guide you through the essentials to build interactive UIs.
 
+![React Roadmap (2025)](https://github.com/bilouStrike/react-developer-roadmap/blob/main/react%20roadmap.png)
+
 ## Month 1: React Foundations
 
 Week 1: Getting Started: Setup, JSX, Functional & Class Components, Props, Basic State. Goal: Understand React's core building blocks.
